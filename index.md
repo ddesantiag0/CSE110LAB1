@@ -4,7 +4,7 @@
 
 I'm a third-year Computer Engineering student at the University of California, San Diego, and I'm all about innovating and tackling complex challenges with technology.
 
-![David De Santiago](793B7687-03D1-48AD-BE04-96B8E74E2B1C.jpeg) 
+<img src="793B7687-03D1-48AD-BE04-96B8E74E2B1C.jpeg" width="400" alt="David De Santiago" /> 
 
 ### About Me
 Born and raised in Los Angeles, I moved to San Diego to dive deeper into the tech world. I enjoy creating things that live on the web, whether that be websites, applications, or games.
